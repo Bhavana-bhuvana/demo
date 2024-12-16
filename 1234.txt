@@ -1,0 +1,17 @@
+menu									
+vinella  30rs 
+chacolate  40rs						
+strawberry  50rs
+choose the flavour:
+enter the quantity:
+print the bill 
+
+
+algorithm:
+start
+declare variables venilla and chacolate and strawberry and initialize it's price, 3 quantity veriables 
+print the menu
+ask for flavour and quantity
+flavour  price multiplied with quanty they choose
+total amt: print bill
+subtrated the quanty of reapective flavour that is staored
